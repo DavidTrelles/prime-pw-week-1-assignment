@@ -2,7 +2,6 @@
 body {
     background-color: salmon;
     margin: 0;
-    padding: 0;
 }
 /* Make the header and footer a different color from the background */
 header {
@@ -12,6 +11,7 @@ header {
 footer {
     background-color: aqua;
     height: 100px;
+    
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -21,7 +21,8 @@ h1 {
 /* Make your p tag a different color and italic */
 p {
     color: rgb(56, 25, 157);
-font-style: italic;
+    font-style: italic;
+    margin-top: 0;
 }
 /* Put a border around your image */
 img {
